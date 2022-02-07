@@ -1,0 +1,18 @@
+# Exclude compiled .js files
+*.js
+
+# Exclude dependencies
+node_modules/
+
+dist/
+
+static/
+
+uploads/
+
+docs/
+
+config/production.json
+service_account_prod.json
+
+config/production.json
